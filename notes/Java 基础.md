@@ -1403,11 +1403,9 @@ Java 注解是附加在代码中的一些元信息，用于一些工具在编译
 2. Pipelines and Streams     Streams 流
 3. Date and Time API           时间Date Time API 的改进
 4. Default Methods       默认方法
-5. Type Annotations   
-6. Nashhorn JavaScript Engine
-7. Concurrent Accumulators
-8. Parallel operations			增强的并行API
-9. PermGen Error Removed
+5. Concurrent Accumulators  . Parallel operations   增强的并行API 
+
+  
 
 **New highlights in Java SE 7**  
 
