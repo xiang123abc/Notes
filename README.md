@@ -27,6 +27,8 @@
 - [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [笔试面试题库](https://www.nowcoder.com/contestRoom?from=cyc_github)
 
+- 算法-排序
+
 ## :computer: 操作系统
 
 - [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
@@ -37,6 +39,7 @@
 - [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
 - [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
 - [Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
+- 计算机网络-概述
 
 ## :art: 面向对象
 
